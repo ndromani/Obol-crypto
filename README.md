@@ -3,7 +3,8 @@
 The Commons aims to preserve the Pearl River by rewarding positive ecological work with Obol tokens that increase in value as the environment improves. Obol refers to the name of the coins given to Charon, who would ferry souls across the River Styx in Greek mythology.
 The work done to increase the health of a commons backs the tokens.
 # The river Pearl in China:
-![](/images/River_Pearl.jpg "This is the location of the river.")
+![](/images/River_Pearl.jpg "This is the location of the river, in the Guangdong Province.")
+Below are 10 most industrialized cities in the Pearl River Delta to which we should pay more attention:
 https://storymaps.arcgis.com/stories/0be5180fface48f29e95bd21fe497136
 # How it works
 
