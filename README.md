@@ -20,3 +20,4 @@ Formula: **$1 = (Local DOC ÷ Healthy DOC) Obol tokens**
 Health DOC = 5; if local DOC is 12 then $1 =  Local DOC/5 = 12/5 = 2.4 Obol tokens; **1000 tokens → 1000/2.4 = $417**
 
 If local DOC diminishes to 8, through the work done to increase the health of the river, then  $1 =  Local DOC/5 = 8/5 = 1,6 Obol tokens ; **1000 tokens → 1000/2.4 = $625**
+![](/images/Reward.jpg)
